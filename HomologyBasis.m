@@ -1,3 +1,6 @@
+// Magma code to compute bases of modular symbols
+// and convert them in PARI/GP-readable form
+
 // Convert a modular symbol to a linear combination
 // of Manin symbols in PARI/GP-readable form
 //
