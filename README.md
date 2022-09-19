@@ -1,8 +1,8 @@
 # K4-of-modular-curves
 
-*Author: François Brunault*
+*Author:* François Brunault
 
-*Date: September 2022*
+*Date:* September 2022
 
 This repository contains the files companion to the preprint
 
