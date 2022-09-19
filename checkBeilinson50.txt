@@ -1,0 +1,516 @@
+? checkBeilinson([1, 50], 40)
+
+E = 11a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = -3    3.0816592627630403767 E-43
+
+E = 14a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.4100316250974523825 E-43
+
+E = 15a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/5
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    5.535270707470478379 E-44
+
+E = 17a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = -3    2.8523856158078912116 E-43
+
+E = 19a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = -3    1.4423656758529921992 E-43
+
+E = 20a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.7847654550526837256 E-43
+
+E = 21a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/7
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 5]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 6]
+Non-zero residue at the cusp 1/7
+
+[a, b] = [1, 7]
+Non-zero residue at the cusp 1/3
+
+[a, b] = [1, 8]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.6391720719739718686 E-44
+
+E = 24a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/8
+
+[a, b] = [1, 4]
+Non-zero residue at the cusp 1/6
+
+[a, b] = [1, 5]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    8.393168269771451025 E-44
+
+E = 26a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    2.5114147491250505002 E-43
+
+E = 26b1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    4.355666996752307275 E-43
+
+E = 27a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/9
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    4.009774298033023263 E-45
+
+E = 30a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/10
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    2.7559357844584579838 E-43
+
+E = 32a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    7.760076274066462582 E-44
+
+E = 33a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/11
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 5]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.5774580109923974860 E-45
+
+E = 34a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.1337034986171525966 E-43
+
+E = 35a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.0240758337081897836 E-43
+
+E = 36a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/12
+
+[a, b] = [1, 4]
+Non-zero residue at the cusp 1/9
+
+[a, b] = [1, 5]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 6]
+Non-zero residue at the cusp 1/6
+
+[a, b] = [1, 7]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 8]
+Non-zero residue at the cusp 1/9
+
+[a, b] = [1, 9]
+Non-zero residue at the cusp 1/4
+
+[a, b] = [1, 10]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.2714633155368334322 E-43
+
+E = 37a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = -3    2.3459403922428779908 E-43
+
+E = 37b1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 5]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = -3    3.121322571924675776 E-44
+
+E = 38a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 9    1.2559540132164301688 E-43
+
+E = 38b1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    3.654987484805945502 E-44
+
+E = 39a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/13
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    7.009850665419145957 E-44
+
+E = 40a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 4]
+Non-zero residue at the cusp 1/10
+
+[a, b] = [1, 5]
+Non-zero residue at the cusp 1/8
+
+[a, b] = [1, 6]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 7]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 8]
+Non-zero residue at the cusp 1/5
+
+[a, b] = [1, 9]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    7.051328555848137275 E-44
+
+E = 42a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/14
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 6    2.990659414203738333 E-44
+
+E = 43a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = -6    2.2510868186031380340 E-43
+
+E = 44a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    4.001632792815241121 E-44
+
+E = 45a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/15
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 5]
+Non-zero residue at the cusp 1/9
+
+[a, b] = [1, 6]
+Non-zero residue at the cusp 1/15
+
+[a, b] = [1, 7]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.3978496584952224653 E-43
+
+E = 46a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.0433471627284048985 E-43
+
+E = 48a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Non-zero residue at the cusp 1/16
+
+[a, b] = [1, 4]
+Non-zero residue at the cusp 1/12
+
+[a, b] = [1, 5]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 6]
+Non-zero residue at the cusp 1/8
+
+[a, b] = [1, 7]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    3.943213502551529889 E-44
+
+E = 49a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 4]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+Regulator is numerically zero
+
+[a, b] = [1, 5]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = -3    2.882454945173102268 E-45
+
+E = 50a1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    2.907586778827520807 E-44
+
+E = 50b1
+
+Checking residues...
+
+[a, b] = [1, 3]
+Residues are numerically zero
+Computing the regulator to 40 digits...
+
+Non-zero regulator
+r = 3    1.1559572191966414863 E-44
+time = 7h, 16min, 23,320 ms.
+
+[["11a1", [1, 3], -3, 3.0816592627630403767 E-43], ["14a1", [1, 3], 3, 1.4100316250974523825 E-43], ["15a1", [1, 4], 3, 5.535270707470478379 E-44], ["17a1", [1, 3], -3, 2.8523856158078912116 E-43], ["19a1", [1, 4], -3, 1.4423656758529921992 E-43], ["20a1", [1, 3], 3, 1.7847654550526837256 E-43], ["21a1", [1, 8], 3, 1.6391720719739718686 E-44], ["24a1", [1, 5], 3, 8.393168269771451025 E-44], ["26a1", [1, 3], 3, 2.5114147491250505002 E-43], ["26b1", [1, 3], 3, 4.355666996752307275 E-43], ["27a1", [1, 4], 3, 4.009774298033023263 E-45], ["30a1", [1, 4], 3, 2.7559357844584579838 E-43], ["32a1", [1, 3], 3, 7.760076274066462582 E-44], ["33a1", [1, 5], 3, 1.5774580109923974860 E-45], ["34a1", [1, 4], 3, 1.1337034986171525966 E-43], ["35a1", [1, 3], 3, 1.0240758337081897836 E-43], ["36a1", [1, 10], 3, 1.2714633155368334322 E-43], ["37a1", [1, 3], -3, 2.3459403922428779908 E-43], ["37b1", [1, 5], -3, 3.121322571924675776 E-44], ["38a1", [1, 3], 9, 1.2559540132164301688 E-43], ["38b1", [1, 3], 3, 3.654987484805945502 E-44], ["39a1", [1, 4], 3, 7.009850665419145957 E-44], ["40a1", [1, 9], 3, 7.051328555848137275 E-44], ["42a1", [1, 4], 6, 2.990659414203738333 E-44], ["43a1", [1, 3], -6, 2.2510868186031380340 E-43], ["44a1", [1, 3], 3, 4.001632792815241121 E-44], ["45a1", [1, 7], 3, 1.3978496584952224653 E-43], ["46a1", [1, 4], 3, 1.0433471627284048985 E-43], ["48a1", [1, 7], 3, 3.943213502551529889 E-44], ["49a1", [1, 5], -3, 2.882454945173102268 E-45], ["50a1", [1, 3], 3, 2.907586778827520807 E-44], ["50b1", [1, 3], 3, 1.1559572191966414863 E-44]]
