@@ -6,7 +6,7 @@ Date: September 2022
 
 This repository contains the files companion to the preprint
 
-F. Brunault, [On the $K_4$ group of modular curves](https://arxiv.org/abs/2009.07614)
+F. Brunault, [On the K4 group of modular curves](https://arxiv.org/abs/2009.07614)
 
 The file K4.gp contains the PARI/GP code for computing numerically the regulators of certain $K_4$ classes on the modular curve $Y_1(N)$.
 
@@ -16,7 +16,7 @@ Note: to use these programs, you should start PARI/GP in the directory containin
 
 **Examples of use:**
 
-Section 8:
+*Section 8*
 
 1) To check numerically Beilinson's conjecture on $L(E,3)$ for the elliptic curve $E = \textrm{15a1}$, with precision 40 digits:
 
@@ -26,7 +26,7 @@ checkBeilinson("15a1", 40)
 
 checkBeilinson([1, 20], 25)
 
-Section 9:
+*Section 9*
 
 To check numerically Conjecture 9.3 (comparison between the $K_4$ elements and the Beilinson elements defined using the Eisenstein symbol), for levels 11 \leq N \leq 28$ and precision 40 digits:
 
