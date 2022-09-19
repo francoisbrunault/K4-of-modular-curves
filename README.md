@@ -20,13 +20,13 @@ Note: to use these programs, you should start PARI/GP in the directory containin
 
 *Section 8*
 
-1) To check numerically Beilinson's conjecture on $L(E,3)$ for the elliptic curve $E = \textrm{15a1}$, with precision 40 digits:
+1) To check numerically Beilinson's conjecture on $L(E,3)$ for the elliptic curve $E = \textrm{15a1}$, with precision $40$ digits:
 
 ```
 checkBeilinson("15a1", 40)
 ```
 
-2) To check numerically Beilinson's conjecture on $L(E,3)$ for all elliptic curves $E$ of conductor $\leq 20$, with precision 25 digits:
+2) To check numerically Beilinson's conjecture on $L(E,3)$ for all elliptic curves $E$ of conductor $\leq 20$, with precision $25$ digits:
 
 ```
 checkBeilinson([1, 20], 25)
@@ -34,7 +34,7 @@ checkBeilinson([1, 20], 25)
 
 *Section 9*
 
-To check numerically Conjecture 9.3 (comparison between the $K_4$ elements and the Beilinson elements defined using the Eisenstein symbol), for levels 11 \leq N \leq 28$ and precision 40 digits:
+To check numerically Conjecture 9.3 (comparison between the $K_4$ elements and the Beilinson elements defined using the Eisenstein symbol), for levels $11 \leq N \leq 28$ and precision $40$ digits:
 
 ```
 checkElements(11, 28, 40)
