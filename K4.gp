@@ -5,7 +5,7 @@
 /*
 
 Author: François Brunault
-Date: September 2022
+Date: July 2022
 
 Note: to use these programs, you should start PARI/GP in the directory containing the file "K4.gp" and the data files "DataH1ell" and "DataH1". Then type the command
 
@@ -1121,7 +1121,7 @@ EisG(k, N, a, b, B, v = 'x) =
     for(j = 1, ceil((B/m+b)/N)-1,
       n = j*N-b;
       C[m*n] += (-1)^k*m^(k-1)));
-  C0 + sum(i = 1, B-1, C[i]*v^i) + O(v^B);
+  Ser(concat(C0, C), v);
 }
 
 \\ EisH(k, N, a, b, B) gives the Eisenstein series
@@ -1147,7 +1147,7 @@ EisH(k, N, a, b, B, v = 'x) =
   for(m = 1, B-1,
     for(n = 1, floor((B-1)/m),
       C[m*n] += (zN^((-a*m-b*n)%N) + (-1)^k * zN^((a*m+b*n)%N)) * n^(k-1)));
-  C0 + sum(i = 1, B-1, C[i]*v^i) + O(v^B);
+  Ser(concat(C0, C), v);
 }
 
 \\ Integral of the Eisenstein symbol Eis^{0,0,1}((0,a),(0,b))
