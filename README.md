@@ -16,7 +16,7 @@ The file `K4.gp` contains PARI/GP code to compute numerically the regulators of 
 
 The beginning of the file `K4.gp` explains several examples of use.
 
-**\[B23\]** F. Brunault, [On the Mahler measure of (1+x)(1+y)+z]()
+**\[B23\]** F. Brunault, [On the Mahler measure of (1+x)(1+y)+z](https://arxiv.org/abs/2305.02992)
 
 The file `K4-modular-complex.gp` contains a (partial) PARI/GP implementation of the weight $3$ modular complex $\mathcal{C}_N(3)$, introduced in Section 3 of \[B23\]. This program is used in Section 4 of the same paper. The beginning of the file `K4-modular-complex.gp` explains how to reproduce this computation and how the program can be used more generally. To use the program, you should start PARI/GP in the directory containing the file `K4-modular-complex.gp`, and then type the command
 
