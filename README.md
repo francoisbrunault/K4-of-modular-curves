@@ -2,43 +2,35 @@
 
 *Author:* François Brunault
 
-*Date:* September 2022
+*Date:* May 2023
 
-This repository contains the files companion to the preprint
+This repository contains the files companion to the preprints:
 
-F. Brunault, [On the K4 group of modular curves](https://arxiv.org/abs/2009.07614)
+**\[B20\]** F. Brunault, [On the K4 group of modular curves](https://arxiv.org/abs/2009.07614)
 
-The file `K4.gp` contains the PARI/GP code for computing numerically the regulators of certain $K_4$ classes on the modular curve $Y_1(N)$.
-
-Note: to use these programs, you should start PARI/GP in the directory containing the file `K4.gp` and the data files `DataH1ell` and `DataH1`. Then type the command
+The file `K4.gp` contains PARI/GP code to compute numerically the regulators of certain $K_4$ classes on the modular curve $Y_1(N)$. To use it, you should start PARI/GP in the directory containing the file `K4.gp` and the data files `DataH1ell` and `DataH1`. Then type the command
 
 ```
 \r K4.gp
 ```
 
-**Examples of use:**
+The beginning of the file `K4.gp` explains several examples of use.
 
-*Section 8*
+**\[B23\]** F. Brunault, [On the Mahler measure of (1+x)(1+y)+z]()
 
-1) To check numerically Beilinson's conjecture on $L(E,3)$ for the elliptic curve $E = \textrm{15a1}$, with precision $40$ digits:
-
-```
-checkBeilinson("15a1", 40)
-```
-
-2) To check numerically Beilinson's conjecture on $L(E,3)$ for all elliptic curves $E$ of conductor $\leq 20$, with precision $25$ digits:
+The file `K4-modular-complex.gp` contains a (partial) PARI/GP implementation of the weight $3$ modular complex $\mathcal{C}_N(3)$, introduced in Section 3 of \[B23\]. This program is used in Section 4 of the same paper. The beginning of the file `K4-modular-complex.gp` explains how to reproduce this computation and how the program can be used more generally. To use the program, you should start PARI/GP in the directory containing the file `K4-modular-complex.gp`, and then type the command
 
 ```
-checkBeilinson([1, 20], 25)
+\r K4-modular-complex.gp
 ```
 
-*Section 9*
-
-To check numerically Conjecture 9.3 (comparison between the $K_4$ elements and the Beilinson elements defined using the Eisenstein symbol), for levels $11 \leq N \leq 28$ and precision $40$ digits:
+The file `K4-reg-Lvalue.gp` contains a PARI/GP program to compute in exact form the Goncharov regulator of the classes $\xi(a,b)$ on $Y(N)$ introduced in \[B20\]. This program is used in Section 6 of \[B23\]. The beginning of the file `K4-reg-Lvalue.gp` explains how to reproduce this computation and how the program can be used more generally. To use the program, you should start PARI/GP in the directory containing the file `K4-modular-complex.gp`, and then type the command
 
 ```
-checkElements(11, 28, 40)
+\r K4-reg-Lvalue.gp
 ```
+
+The SageMath notebook `ModularSymbolGamma15.ipynb` contains computations with modular symbols used in Section 5 of \[B23\].
 
 
 
