@@ -4,7 +4,7 @@
 
 *Date:* May 2023
 
-This repository contains the files companion to the preprints:
+This repository contains the files companion to the following preprints.
 
 **\[B20\]** F. Brunault, [On the K4 group of modular curves](https://arxiv.org/abs/2009.07614)
 
