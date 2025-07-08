@@ -8,13 +8,13 @@ This repository contains the files companion to the following preprints.
 
 **\[B20\]** F. Brunault, [On the K4 group of modular curves](https://arxiv.org/abs/2009.07614)
 
-The file `K4.gp` contains PARI/GP code to compute numerically the regulators of certain $K_4$ classes on the modular curve $Y_1(N)$. To use it, you should start PARI/GP in the directory containing the file `K4.gp` and the data files `DataH1ell` and `DataH1`. Then type the command
+The file `K4-reg-num.gp` contains PARI/GP code to compute numerically regulator integrals associated to elements in the group $K_4$ of the modular curve $Y_1(N)$. To use it, you should start PARI/GP in the directory containing the file `K4-reg-num.gp` and the data files `DataH1ell` and `DataH1`. Then type the command
 
 ```
-\r K4.gp
+\r K4-reg-num.gp
 ```
 
-The beginning of the file `K4.gp` explains several examples of use.
+The beginning of the file `K4-reg-num.gp` explains several examples of use.
 
 **\[B23\]** F. Brunault, [On the Mahler measure of (1+x)(1+y)+z](https://arxiv.org/abs/2305.02992)
 
