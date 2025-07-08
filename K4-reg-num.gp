@@ -8,8 +8,9 @@ Author: François Brunault
 Date: July 2022
 
 Note: to use this program, you should start PARI/GP in
-the directory containing the file "K4.gp" and the data
-files "DataH1ell" and "DataH1". Then type the command
+the directory containing the file "K4-reg-num.gp" and
+the data files "DataH1ell" and "DataH1". Then type the
+command
 
 \r K4-reg-num.gp
 
