@@ -1,3 +1,27 @@
+/*
+
+For each isogeny class of elliptic curves of
+conductor N <= 100, represented by E = Edata[i],
+gammaEdata[i] gives a generator of the Hecke
+eigenspace of H_1(X_1(N)(C), Q)^+ attached to E.
+
+The generator gamma_{N,E} is given as a vector
+of vectors [n, a, b, c, d], meaning that
+
+gamma_{N,E} = \sum n {h.0, h.oo}
+
+with h = [a, b; c, d] in SL_2(Z).
+
+More precisely, gamma_{N,E} is a 1-cycle on X_1(N)(C)
+whose homology class is in the Hecke eigenspace
+attached to E, and whose image under the projection map
+
+H_1(X_1(N)(C), Q) --> H_1(X_1(N)(C), Q)^+
+
+is non-zero.
+
+*/
+
 {
 Edata =
 [ "11a1", "14a1", "15a1", "17a1", "19a1", "20a1", "21a1", "24a1", "26a1", 
