@@ -1,3 +1,30 @@
+/*
+
+For each 1 <= N <= 50, gammaNdata[N] gives a basis
+of the Q-vector space
+
+H_1(X_1(N)(C), Q)^+.
+
+The basis is given as a vector [gamma_1, ..., gamma_g],
+where g is the genus of X_1(N).
+
+Each gamma_i is given as a vector of vectors
+[n, a, b, c, d], meaning that
+
+gamma_i = \sum n {h.0, h.oo}
+
+with h = [a, b; c, d] in SL_2(Z).
+
+More precisely, gamma_1, ..., gamma_g are 1-cycles
+on X_1(N)(C) whose images under the projection map
+
+H_1(X_1(N)(C), Q) --> H_1(X_1(N)(C), Q)^+
+
+give a Q-basis of the latter vector space.
+
+*/
+
+
 {
 gammaNdata =
 [
