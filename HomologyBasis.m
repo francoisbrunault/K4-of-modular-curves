@@ -1,12 +1,12 @@
 // Magma code to compute bases of modular symbols
-// and convert them in PARI/GP-readable form
+// and convert them in PARI/GP-readable form.
 
 // Convert a modular symbol to a linear combination
-// of Manin symbols in PARI/GP-readable form
+// of Manin symbols in PARI/GP-readable form.
 //
 // Output: a sequence of sequences [n, a, b, c, d]
-// meaning the sum of the n * \xi(a, b; c, d)
-// Here (a, b; c, d) is a matrix in SL_2(Z)
+// meaning the sum of the n {h.0, h.oo} with
+// h = [a, b; c, d] in SL_2(Z).
 
 ModSymConvert := function(xi)
   Z := Integers();
