@@ -85,7 +85,7 @@ red(a, N) =
 
 
 /***********************************************************/
-/* TRIANGULATION OF THE MANIN RELATIONS IN K_2 (SECTION 4) */
+/* TRIANGULATION OF THE MANIN RELATIONS IN K_2 (SECTION 3) */
 /***********************************************************/
 
 
@@ -183,7 +183,7 @@ Triangulation(N, a, b) =
 
 
 /*************************************/
-/* ASYMPTOTIC EXPANSIONS (SECTION 7) */
+/* ASYMPTOTIC EXPANSIONS (SECTION 6) */
 /*************************************/
 
 
@@ -423,7 +423,7 @@ qexp_int(F, N, C = 0) =
 
 
 /**********************************************/
-/* GENERALISED MELLIN TRANSFORM (SECTION 7.2) */
+/* GENERALISED MELLIN TRANSFORM (SECTION 6.3) */
 /**********************************************/
 
 
@@ -497,7 +497,7 @@ B2(x) =
 \\ Leading term of g_{a,b} at oo
 \\
 \\ Input: [a, b] in (Z/NZ)^2
-\\ Output: [n, C] such that g_a ~ C * q^n (with n possibly rational)
+\\ Output: [n, C] such that g_{a,b} ~ C * q^n (with n possibly rational)
 
 {
 lead_g(ab, N) =
@@ -996,7 +996,7 @@ r32_int(N, a, b, gam, B) =
 
 /*
 We check numerically Beilinson's conjecture on L(E,3)
-using the K_4 elements constructed in Section 6. More
+using the K_4 elements constructed in Section 5. More
 precisely, for an elliptic curve E of conductor N, we
 integrate cocycles xi_1(a,b) with a, b in Z/NZ along
 a 1-cycle gamma_E in the Hecke eigenspace attached to E.
